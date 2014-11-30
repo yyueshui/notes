@@ -5,3 +5,5 @@
 5. JMSSerializerBundle		对象进行序列化工具	在接口中，将Doctrine2生成出来的Entity对象转换为Json格式
 
 修改啦！
+
+地地道道
