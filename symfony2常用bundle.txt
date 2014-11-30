@@ -4,4 +4,7 @@
 4. NelmioApiDocBundle		自动生成API的文档及接口测试工具	生成API文档以及接口测试工具，并允许工程师及第三方调用者使用工具测试接口是否正常
 5. JMSSerializerBundle		对象进行序列化工具	在接口中，将Doctrine2生成出来的Entity对象转换为Json格式
 
+
 修改啦！
+
+冲突了！哈哈！
